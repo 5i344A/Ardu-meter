@@ -17,3 +17,8 @@ https://www.linkedin.com/posts/sooryajohn_pt2-of-the-power-meter-now-using-an-es
 
 ![1740912960768](https://github.com/user-attachments/assets/a5b532ed-4ee5-42ea-b846-1b673e6fc9da)
 ![1740452512384](https://github.com/user-attachments/assets/ac38430c-6a8c-4615-955a-afeba3d3275d)
+
+
+
+
+THE .INO IS USING INA 226 WHICH IS BETTER THAN 219
